@@ -2,6 +2,7 @@
  
 # CCExtractor
 
+
 CCExtractor is a tool that produces subtitles from TV use. Global accessibility (all users, all content, all countries) is the goal. With so many different formats, this is a constantly moving target, but we intend to keep up with all sources and formats.
 
 Carlos' version (mainstream) is the most stable branch.
