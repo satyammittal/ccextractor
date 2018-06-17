@@ -101,3 +101,4 @@ You can contribute to the project by forking it, modifying the code, and making 
 News about releases and modifications to the code can be found in the `CHANGES.TXT` file. 
 
 For more information visit the CCExtractor website: [http://www.ccextractor.org](http://www.ccextractor.org)
+Edit access
